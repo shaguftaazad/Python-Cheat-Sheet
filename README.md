@@ -1,2 +1,3 @@
 # Python-Cheat-Sheet
 Python for everybody
+Python is similar to java...
